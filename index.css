@@ -1,0 +1,72 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Hind Vadodara', sans-serif;
+    font-family: 'Sorts Mill Goudy', serif;
+    background: #222;
+    background-image: url('pic.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 120%;
+}
+
+.card {
+    background: #000000d0;
+    color: white;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 1em;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input.searchbar {
+    border: none;
+    outline: none;
+    padding: 0.4em 1em;
+    border-radius: 24px;
+    background-color: #7c7c7c2b;
+    color: white;
+    font-family: inherit;
+    font-size: 120%;
+    width: 100%;
+    height: 30px;
+}
+
+button {
+    margin: 0.5em;
+    border-radius: 50%;
+    border: none;
+    width: 46px;
+    height: 46px;
+    outline: none;
+    background-color: #7c7c7c2b;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+    -webkit-transition: 0.2s ease-in-out;
+    -moz-transition: 0.2s ease-in-out;
+    -ms-transition: 0.2s ease-in-out;
+    -o-transition: 0.2s ease-in-out;
+}
+button:hover {
+    background-color: #c7c7c76b;
+}
+
+.temperature {
+    margin: 0;
+}
+
+.weather{
+    height: 250px;
+    overflow-y: scroll;
+}

@@ -1,0 +1,46 @@
+{
+    "weaths": [
+        {
+            "city": "Nailobi",
+            "temps": "62°C",
+            "description": "Cloudy",
+            "humidity": "Humididty: 62%",
+            "wind": "Wind speed: 6.3km/h"    
+    },
+    {
+        "city": "Kigali",
+        "temps": "51°C",
+        "description": "Cloudy",
+        "humidity": "Humididty: 67%",
+        "wind": "Wind speed: 5.2km/h"    
+},
+{
+    "city": "Kampala",
+    "temps": "57°C",
+    "description": "sunny",
+    "humidity": "Humididty: 60%",
+    "wind": "Wind speed: 6.2km/h"    
+},
+{
+"city": "Kinshasa",
+"temps": "60°C",
+"description": "Cloudy",
+"humidity": "Humididty: 61%",
+"wind": "Wind speed: 6.2km/h"    
+},
+{
+    "city": "Bujumbura",
+    "temps": "54°C",
+    "description": "Cloudy",
+    "humidity": "Humididty: 60%",
+    "wind": "Wind speed: 6.2km/h"    
+},
+{
+"city": "Dal salam",
+"temps": "57°C",
+"description": "sunny",
+"humidity": "Humididty: 77%",
+"wind": "Wind speed: 6.7km/h"    
+}
+    ]
+}
